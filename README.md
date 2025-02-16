@@ -10,7 +10,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinitworks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <br/>
    
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitworks&layout=compact&langs_count=6&theme=tokyonight"/>
-</div><br/>
+</div>
 
 ### 🌐 Projeto Ellyon | Criação de Sites & Web Design:  [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.ellyon.com.br)
 
