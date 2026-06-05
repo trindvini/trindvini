@@ -2,17 +2,22 @@
 
 ### Eu sou o Vinícius Trindade
 
-#### 🌱 Amante da tecnologia desde sempre ❤ | Em busca de novos desafios e crescimento profissional | Facilitador de processos, liderança de projetos e analista 🚀✨
+#### 🤝 Comunicativo, acolhedor e com um bom networking, acredito que conexões constroem oportunidades e o comportamento nos define como profissionais e seres humanos, acima de tudo.
+
+#### 💖 Apaixonado por tecnologia, inovação e projetos. Gosto por resolução de problemas, participação em iniciação de projetos, melhorias e aprendizado com desafios reais do cotidiano.
+
+#### 🎮 Cristão, marido e pai dedicado, gamer nas horas vagas, com interesses e gostos um pouco mais para o lado nerd / geek, parceiro para futebol, basquete, pebolim, sinuca, viagens, corrida, academia e diversas atividades.
+
+#### 🏞 Admirador de paisagens naturais e momentos em família, familiares, amigos e colegas, sempre em busca de equilíbrio entre o mundo real e o virtual.
+
 
  <div>
-   <a href="https://github.com/vinitworks">
+   <a href="https://github.com/trindvini">
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinitworks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <br/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trindvini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <br/>
    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitworks&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindvini&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
-### 🌐 Projeto Ellyon | Criação de Sites & Web Design:  [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.ellyon.com.br)
 
 ### ✅ lido com linguagens e ferramentas como:
 
@@ -32,7 +37,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg
   ### Entre em contato comigo por aqui 👇
 
 <div> 
-  <a href="https://www.instagram.com/vinicius_mtrindade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ovinitrin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciustrindade1909@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-martins-trindade-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>               
 </div>
