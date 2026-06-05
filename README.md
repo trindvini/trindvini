@@ -10,15 +10,6 @@
 
 #### 🏞 Admirador de paisagens naturais e momentos em família, familiares, amigos e colegas, sempre em busca de equilíbrio entre o mundo real e o virtual.
 
-
- <div>
-   <a href="https://github.com/trindvini">
-
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trindvini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <br/>
-   
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindvini&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
 ### ✅ lido com linguagens e ferramentas como:
 
 <div style="display: inline_block"><br>
